@@ -101,5 +101,4 @@ Dataset yang digunakan mencakup citra hibrida kasual yang memuat elemen teks (in
 ---
 
 ## 📜 Lisensi
-
-Proyek ini dilisensikan di bawah [MIT License](LICENSE).
+****
