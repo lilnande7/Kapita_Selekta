@@ -1,7 +1,6 @@
 # 🛡️ Deteksi Manipulasi Citra Berbasis AI Generatif (Hybrid Laplacian Variance & OCR)
 
 ![Python Version](https://img.shields.io/badge/python-3.9%2B-blue.svg)
-![License](https://img.shields.io/badge/license-MIT-green.svg)
 ![Status](https://img.shields.io/badge/status-Research%20%2F%20Thesis-orange.svg)
 ![Institution](https://img.shields.io/badge/FASILKOM-Universitas%20Esa%20Unggul-red.svg)
 
